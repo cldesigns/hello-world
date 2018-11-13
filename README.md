@@ -29,4 +29,6 @@ more about me
 https://en.wikipedia.org/wiki/Cat
 </br>
 </br>
+<center>
 <img src="https://i.kym-cdn.com/photos/images/original/000/242/592/1c8.jpg">
+ </center>
