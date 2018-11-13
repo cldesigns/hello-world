@@ -29,4 +29,4 @@ more about me
 https://en.wikipedia.org/wiki/Cat
 </br>
 </br>
-![cat with bread on face](https://i.imgur.com/KCEcen2.jpg "Behold, a bread cat")
+<img src="https://i.imgur.com/KCEcen2.jpg">
